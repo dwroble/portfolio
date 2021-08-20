@@ -1,0 +1,46 @@
+package com.seive;
+
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
+public class Sieve {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		ArrayList list = init(30);
+		for(int i = 0; i < list.size(); i++) {
+			System.out.println("Hello: " + list);
+		}
+	}
+	
+	public static ArrayList<Integer> init(int inVal) {
+		ArrayList<Integer> output = new ArrayList<Integer>((int)Math.sqrt(inVal));
+		boolean [] bool1 = new boolean[inVal];
+		for (int i = 0; i < inVal; i++) {
+			bool1[i] = true;
+		}
+		for (int i = 2; i <= Math.sqrt(inVal); i++) {
+			if(bool1[i] == true) {
+				int k = 0;
+				for (int j = 0; j < inVal; j += (i^2) + (i*k)) {
+					k++;
+					bool1[j] = false;
+				}
+			}
+		}
+		
+		
+		for (int i = 0; i <= inVal; i++) {
+
+			System.out.println("I am here " + i + ": " + bool1[i]);
+			if(bool1[i] == true) {
+				output.add(i);
+			}
+		}
+		
+		
+		return output;
+	}
+
+}

@@ -1,0 +1,22 @@
+package com.seive;
+
+import static org.junit.Assert.*;
+
+import org.junit.Before;
+import org.junit.Test;
+
+public class SieveTest {
+	Sieve sieve;
+	@Before
+	void setUp() {
+		sieve= new Sieve();
+	}
+
+	@Test
+	public void testInit() {
+		int [] a = 
+		Sieve.init(30);
+		assertArrayEquals(expecteds, actuals);
+	}
+
+}

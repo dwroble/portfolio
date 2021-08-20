@@ -1,0 +1,23 @@
+package com.seive;
+
+import static org.junit.Assert.*;
+
+import org.junit.Assert;
+import org.junit.Before;
+import org.junit.Test;
+
+public class SieveTest {
+	Sieve sieve;
+	@Before
+	void setUp() {
+		sieve= new Sieve();
+	}
+
+	@Test
+	public void testInit() {
+		int [] a = {0, 1, 2, 3, 5, 7, 11, 13,17, 19,23, 25,29};
+		
+		Assert.assertEquals(a, Sieve.init(30).toArray());
+	}
+
+}

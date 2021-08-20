@@ -1,0 +1,14 @@
+package com.seive;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SieveTest {
+
+	@Test
+	public void testInit() {
+		fail("Not yet implemented");
+	}
+
+}

@@ -1,0 +1,17 @@
+package com.seive;
+
+
+import org.junit.Assert;
+import org.junit.Test;
+
+public class SieveTest {
+	
+
+	@Test
+	public void testInit() {
+		int [] a = {0, 1, 2, 3, 5, 7, 11, 13,17, 19,23, 25,29};
+		
+		Assert.assertEquals(a, Sieve.init(30).toArray());
+	}
+
+}
