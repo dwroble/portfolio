@@ -19,8 +19,6 @@ namespace EFCore_Demo.DBContext
              * 
              */
 
-            // TODO: Remove this options builder or update with generic values
-            optionsBuilder.UseMySQL("server=127.0.0.1;uid=root;pwd=Bs95162z;database=efcoredemodb");
         }
     }
 
