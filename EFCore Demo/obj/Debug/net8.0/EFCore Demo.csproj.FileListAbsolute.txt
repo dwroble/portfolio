@@ -1,0 +1,50 @@
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.csproj.AssemblyReference.cache
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.AssemblyInfoInputs.cache
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.AssemblyInfo.cs
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.csproj.CoreCompileInputs.cache
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\EFCore Demo.exe
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\EFCore Demo.deps.json
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\EFCore Demo.runtimeconfig.json
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\EFCore Demo.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\EFCore Demo.pdb
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore D.2EABB778.Up2Date
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\refint\EFCore Demo.dll
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.pdb
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\EFCore Demo.genruntimeconfig.cache
+C:\Users\dwrob\Documents\Development Projects\.net\asp_net\Learning\EFCore Demo\EFCore Demo\obj\Debug\net8.0\ref\EFCore Demo.dll
